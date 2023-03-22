@@ -16,6 +16,4 @@ jobs:
           terraform_version: 1.1.9
       - name: Terraform init 
         run: terraform init 
-      - name: Try echo 
-        run: mkdir ikeita
-      
+    
