@@ -1,2 +1,2 @@
 # terraform-github-action
-Use gihub action to create terraform
+Use gihub action to create resource terraform 
